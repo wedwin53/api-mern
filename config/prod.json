@@ -1,0 +1,8 @@
+{
+    "port": 5000,
+    "enviroment": "prod",
+    "jwt_secret": "this_is_super_secure",
+    "data_base": {
+        "mongo_uri": "mongodb+srv://dbadmin:CqXL6z5xeb72he8P@maincluster.fxu5g.mongodb.net/hospital?retryWrites=true&w=majority"
+    }
+}
