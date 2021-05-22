@@ -3,6 +3,6 @@
     "enviroment": "development",
     "jwt_secret": "super_secure_api",
     "data_base": {
-        "mongo_uri": "mongodb+srv://dbadmin:CqXL6z5xeb72he8P@maincluster.fxu5g.mongodb.net/hospital?retryWrites=true&w=majority"
+        "mongo_uri": "mongodb+srv://<user-here>:<password>@maincluster.fxu5g.mongodb.net/hospital?retryWrites=true&w=majority"
     }
 }
